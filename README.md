@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Live URL
 
-https://art-explorer-theta.vercel.app/
+https://pokedex-explorer-theta.vercel.app/
 
 ## Getting Started
 
